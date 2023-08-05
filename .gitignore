@@ -1,0 +1,87 @@
+*/# Logs
+*/logs
+*/*.log
+*/
+*/# Runtime data
+*/pids
+*/*.pid
+*/*.seed
+*/*.pid.lock
+*/
+*/# Dependency directories
+*/node_modules/
+*/
+*/# Optional npm cache directory
+*/.npm
+*/
+*/# Environment variables
+*/.env
+*/
+*/# Development build directories
+*/build/
+*/dist/
+*/
+*/# Editor/IDE specific files
+*/.vscode/
+*/.idea/
+*/*.sublime-project
+*/*.sublime-workspace
+*/*.komodoproject
+*/*.komodotools
+*/*.kateproject
+*/*.kateswap
+*/*.kate-caches
+*/*.tmproj
+*/*.plst
+*/*.nib
+*/*.xib
+*/*.swp
+*/*.swo
+*/*~.nib
+*/*.xcuserstate
+*/project.xcworkspace/
+*/xcuserdata/
+*/*.xcworkspace
+*/*.xccheckout
+*/
+*/# macOS specific files
+*/.DS_Store
+*/.AppleDouble
+*/.LSOverride
+*/
+*/# Windows specific files
+*/Thumbs.db
+*/ehthumbs.db
+*/ehthumbs_vista.db
+*/
+*/# Compiled output
+*/*.o
+*/*.lo
+*/*.la
+*/*.al
+*/*.out
+*/*.el
+*/*.axo
+*/*.pdf
+*/*.swp
+*/*.psd
+*/*.so
+*/*.class
+*/
+*/# Precompiled Node.js binaries
+*/node_modules/
+*/node_modules.bin/
+*/*.keystore
+*/
+*/# Yarn specific directories
+*/.yarn/*
+*/.yarn-cache/*
+*/.yarn-integrity
+*/
+*/# Typescript specific files
+*/*.tsbuildinfo
+*/*.tsclass
+*/
+*/# Jest cache
+*/.jest
+*/.pnp.*
